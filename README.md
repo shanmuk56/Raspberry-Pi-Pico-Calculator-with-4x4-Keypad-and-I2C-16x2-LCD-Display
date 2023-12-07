@@ -32,6 +32,6 @@ The project consists of three Python files:
 The IEEE document related to this project can be found in the repository. It provides detailed information about the design, implementation, and functionality of the calculator project.
 
 Contributors:
-Surya Shanmuk PHD
-Nithish Reddy C
+Surya Shanmuk PHD,
+Nithish Reddy C,
 Yegnessh Sayi Reddy M
